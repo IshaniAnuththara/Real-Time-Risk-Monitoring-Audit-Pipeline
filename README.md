@@ -1,6 +1,6 @@
 # Real-Time Inventory Risk Auditor 🚀
 
-A Python-based data pipeline that monitors live market volatility to protect business profit margins. This tool acts as an automated "Health Inspector" for inventory valuation.
+A Python-based data pipeline that monitors live market volatility to protect business profit margins. This tool acts as an automated "Health Inspector" for inventory valuation.  
 
 ## 📌 Project Overview
 In a volatile economy, the price you paid for inventory (Acquisition Cost) can quickly become outdated. This project automates the audit process by comparing internal inventory data against live web-scraped market prices.
